@@ -1,0 +1,77 @@
+header {
+    width: fit-content;
+    margin-left: 10px;
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+body {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+}
+
+.logo, .navBack, footer {
+    margin: auto;
+    margin-top: 15px;
+    width: 50%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.gap {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.logo, footer {
+    color: darkorange;
+}
+
+.navBack, footer {
+    background-color: #b0b8b4ff;
+}
+
+.nav {
+    margin: auto;
+    width: fit-content;
+}
+
+.navContents {
+    width: 150px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.colcont1, .colcont2, .colcont3 {
+    padding-top: 10px;
+    padding-bottom: 80px;
+}
+
+.colcont1 {
+    background-color: #19647E;
+}
+
+.colcont2 {
+    background-color: #28AFB0;
+}
+
+.colcont3 {
+    background-color: #F4D35E;
+}
+
+.feature {
+    margin: auto;
+    margin-top: 15px;
+    width: 50%;
+    padding-bottom: 8.5%;
+    text-align: center;
+    background-color: wheat;
+}
+
+.picture {
+    float: right;
+    padding-right: 15px;
+}
